@@ -1,0 +1,18 @@
+9
+Start 200 50
+A 100 150
+B 300 150
+End2 50 250
+End1 150 250
+C 250 250
+D 350 250
+End4 250 350
+End3 350 350
+Start A 1
+Start B 1
+A End2 2
+A End1 3
+B C 2
+B D 1
+C End4 1
+D End3 1
