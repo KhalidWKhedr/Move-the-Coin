@@ -46,6 +46,7 @@ The game graph (nodes and connections) is defined in a config.txt file, which th
 
 Example config.txt:
 
+```
 5
 Start 100 100
 A 200 200
@@ -56,7 +57,7 @@ Start A 1
 A B 2
 B C 3
 C D 4
-
+```
 Contributing
 
 If you would like to contribute to the project:
